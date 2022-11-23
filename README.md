@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Araujo</h1>
 <h3 align="center">A data maniac from Brasil</h3>
 
-- 🌱 I’m currently learning **Data Enginnering, Digital Marketing and Google Data Analytics Certificate**
+- 🌱 I’m currently learning **Data Enginnering, Digital Marketing and Google Data Analytics**
 
 - 💬 Ask me about **SQL, Power BI and Excel**
 
