@@ -1,0 +1,15 @@
+This project are made in 2018 for helping some friends to analysis the impact of biggest stars in NBA Salary CAP year by year.
+
+It can be analyzed.
+1. Players with seasons where they occupied more than 35% of the cap
+2. Evolution of the cap
+3. Relation between number of players and average salary according to league time
+4. Players' quadrant between salary and NBA time
+5. Evolution of payroll year by year
+6. Division of players by career time
+7. Division of players by salary pct
+
+https://app.powerbi.com/view?r=eyJrIjoiY2JiYmMyYzQtZjY3Mi00ODNiLWE1ZmItNWViOGUxYTM4MWY2IiwidCI6IjhhZDBjYzBkLTQ0NDMtNGYwMC1iZTliLWM4NzAyNzAxZmEzMyJ9
+
+
+Sample Database Used: https://data.world/datadavis/nba-salaries
